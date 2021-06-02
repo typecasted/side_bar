@@ -1,6 +1,6 @@
 # side_bar
 
-A new Flutter project.
+An animated Side bar.
 
 ## Getting Started
 
