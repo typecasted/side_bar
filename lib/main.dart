@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:side_bar/UI/dashboard_screen.dart';
+import 'package:side_bar/UI/Screens/dashboard_screen.dart';
 import 'package:side_bar/utils/bloc.dart';
 
-import 'UI/back_screen.dart';
+import 'UI/Screens/back_screen.dart';
 
 void main() {
   runApp(MyApp());
